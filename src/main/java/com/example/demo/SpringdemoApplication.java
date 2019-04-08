@@ -18,7 +18,7 @@ public class SpringdemoApplication {
 		return "Hello World!";
 	}
 
-//	// 添加子路径
+//	// 添加子路径1111
 //	@ResponseBody
 //	@RequestMapping("/hello")
 //	public String hello() {
